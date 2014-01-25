@@ -123,6 +123,9 @@ Start here.
 * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
 * Capstone Analysis of Your Own Design; [Quora](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](https://www.coursolve.org/need/54)
+* Classical Datasets for Your Specific Need [UCI Machine Learning Repository Datasets](
+http://archive.ics.uci.edu/ml/datasets.html)
+* [NIPS Feature Selection](http://www.nipsfsc.ecs.soton.ac.uk/datasets/)
 
 ***
 ### Further Study Resources:
